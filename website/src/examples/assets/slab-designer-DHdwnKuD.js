@@ -1,10 +1,10 @@
-import { w as J, x as N, v as t, g as Z, a as q } from "./styles-CHgmIz-C.js";
-import { g as Q } from "./getParameters-CL7Q-jKZ.js";
-import { g as W } from "./getTables-BYhgSG7f.js";
-import { g as Y } from "./getDialog-pbQItXqo.js";
-import { g as tt } from "./getReport-DPwlaBVR.js";
+import { w as J, x as N, v as t, g as Z, a as q } from "./calcpad-template-BSrQGsqL.js";
+import { g as Q } from "./getParameters-BHuv0NKi.js";
+import { g as W } from "./getTables-Dpkji5Km.js";
+import { g as Y } from "./getDialog-Dm5sakGN.js";
+import { g as tt } from "./getReport-BV5jiW-2.js";
 import { d as et, a as at, __tla as __tla_0 } from "./deformCpp-BprT8Kg9.js";
-import { g as st, a as lt, b as ot, c as A, d as H, __tla as __tla_1 } from "./getSolids-BL9lD4Bi.js";
+import { g as st, a as lt, b as ot, c as A, d as H, __tla as __tla_1 } from "./getSolids-CDA1pWlw.js";
 import "./complex-i8qiIvCl.js";
 import { __tla as __tla_2 } from "./getMesh-DmUdekin.js";
 import "./__vite-browser-external-D7Ct-6yo.js";
