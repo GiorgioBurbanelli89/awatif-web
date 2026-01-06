@@ -10,3 +10,5 @@ export { getColorMap } from "./color-map/getColorMap";
 export { getToolbar } from "./toolbar/getToolbar";
 export { getDialog } from "./dialog/getDialog";
 export { getReport } from "./report/getReport";
+export { getReport2 } from "./report2/getReport2";
+export type { Report2Options } from "./report2/getReport2";
